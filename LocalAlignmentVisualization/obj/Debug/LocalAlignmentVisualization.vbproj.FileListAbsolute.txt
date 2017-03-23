@@ -1,0 +1,36 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.exe.config
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.mainForm.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.xml
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.xml
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.mainForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.settingsForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.scoringMatrixViewer.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.scoringMatrixCustomizer.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.comparativeChartForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.aboutBox.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.vbproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.sourceViewer.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.helpViewer.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.exe.manifest
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\bin\Debug\LocalAlignmentVisualization.application
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.exe.manifest
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\LocalAlignmentVisualization\LocalAlignmentVisualization\obj\Debug\LocalAlignmentVisualization.application

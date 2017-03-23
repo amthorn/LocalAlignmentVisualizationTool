@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="LocalAlignmentVisualization.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <userSettings>
+        <LocalAlignmentVisualization.My.MySettings>
+            <setting name="DNACharsOnly" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="AllowNegativeScores" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="GraphicResultsMatchColor" serializeAs="String">
+                <value>Green</value>
+            </setting>
+            <setting name="GraphicResultsSeq1GapColor" serializeAs="String">
+                <value>Blue</value>
+            </setting>
+            <setting name="GraphicResultsSeq2GapColor" serializeAs="String">
+                <value>Red</value>
+            </setting>
+            <setting name="GraphicResultsCurrentColor" serializeAs="String">
+                <value>Yellow</value>
+            </setting>
+            <setting name="DisplaySequence1Numbers" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="DisplaySequence2Numbers" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="DisplayNumbersEvery" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="DimMismatches" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="ViewFullTracebackGraph" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="GraphicResultsSelectionColor" serializeAs="String">
+                <value>White</value>
+            </setting>
+            <setting name="ShowGridLinesPartialPath" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="SequenceDensityColors" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="DotPlotInColor" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ShowGridLinesDotPlot" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="ShowGridLinesDensityColor" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="UseWindowingForDotPlot" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="SimpleSequenceLineView" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="numberOfAlignmentsToCompare" serializeAs="String">
+                <value>3</value>
+            </setting>
+            <setting name="compareIn3D" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="markerSizeCompare" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="compareInSeparateCharts" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </LocalAlignmentVisualization.My.MySettings>
+    </userSettings>
+</configuration>
